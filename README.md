@@ -3,7 +3,7 @@
 <h3 align="center"> A code enthusiast 🤓 full of questions about the world 🔭</h3>
 
 - 🌱 I'm currently learning **Exploratory learning for AI**
-
+- ⚡ Fun fact: ...
 
 &nbsp;<br>
 <div align="center">
