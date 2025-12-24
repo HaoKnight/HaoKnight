@@ -7,7 +7,7 @@
 
 &nbsp;<br>
 <div align="center">
-<img src="https://github.com/HaoKnight/HaoKnight/blob/main/InfiniteProgress.png" alt="InfiniteProgress" width="300">
+<img src="https://github.com/HaoKnight/HaoKnight/blob/main/InfiniteProgress.png" alt="InfiniteProgress" width="200">
 </div>
 
 
