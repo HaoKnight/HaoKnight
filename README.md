@@ -5,11 +5,11 @@
 - 🌱 I'm currently learning **Exploratory learning for AI**
 
 
+<div align="center">
+<img src="https://github.com/HaoKnight/HaoKnight/blob/main/InfiniteProgress.png" alt="InfiniteProgress" width="300">
+</div>
 
-![InfiniteProgress](https://github.com/HaoKnight/HaoKnight/blob/main/InfiniteProgress.png)
 
-
-----------------------------------------------------------------------------------------------------------------------------
 
 <!--
 **HaoKnight/HaoKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
