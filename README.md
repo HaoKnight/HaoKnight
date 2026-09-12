@@ -15,14 +15,8 @@
 - 🤪 I love **tinkering and trying out new ideas**
 - ⚡ Always curious, always learning
 
-<p align="center">
-  <a href="https://github.com/HaoKnight?tab=repositories">🧑‍💻 My Projects · 我的项目</a>
-  &nbsp; | &nbsp;
-  <a href="https://github.com/HaoKnight?tab=stars">🌟 My Stars · 有趣的收藏</a>
-</p>
 
 
-&nbsp;<br>
 <div align="center">
 <img src="./InfiniteProgress.png" alt="InfiniteProgress" width="200">
 </div>
@@ -31,7 +25,11 @@
   <sub>📷 Capture moments &nbsp;·&nbsp; 💡 Try ideas &nbsp;·&nbsp; 🌱 Keep growing</sub><br>
   <sub>记录瞬间 · 尝试想法 · 无限进步</sub>
 </p>
-
+<p align="center">
+  <a href="https://github.com/HaoKnight?tab=repositories">🧑‍💻 My Projects · 我的项目</a>
+  &nbsp; | &nbsp;
+  <a href="https://github.com/HaoKnight?tab=stars">🌟 My Stars · 有趣的收藏</a>
+</p>
 
 <!--
 **HaoKnight/HaoKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
