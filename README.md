@@ -18,7 +18,11 @@
 
 
 <div align="center">
-<img src="./InfiniteProgress.png" alt="InfiniteProgress" width="200">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/InfiniteProgress.png">
+  <source media="(prefers-color-scheme: light)" srcset="./images/InfiniteProgress-light.png">
+  <img src="./images/InfiniteProgress-light.png" alt="InfiniteProgress" width="200">
+</picture>
 </div>
 
 <p align="center">
